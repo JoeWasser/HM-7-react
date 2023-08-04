@@ -1,0 +1,17 @@
+.todoCard{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    border-radius: 10px;
+}
+.done {
+    background-color: green;
+    color: white;
+}
+.undone{
+    background-color: red;
+    color: white;
+}
